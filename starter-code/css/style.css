@@ -1,1 +1,40 @@
 
+.heeder{
+    background-color:#033048;
+    height: 50px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+ul{
+    margin-left: 900px;
+}
+.jjjj li{
+    display: inline;
+    color: bisque;
+    padding-right: 50px;
+    
+
+}
+li::after{
+    content:" | ";
+}
+a{
+    color: bisque;
+}
+h3{
+    padding-top: 300px;
+    padding-left: 800px;
+}
+.body{
+    background-color: bisque;
+    height: 800px;
+
+}
